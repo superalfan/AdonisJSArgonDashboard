@@ -10,43 +10,43 @@ masuk ke directory
 
 cd adonisjsblackdashboard, lalu install paket yang dibutuhkan dengan perintah :
 
-npm i 
+    npm i 
 
-    atau bisa menggunakan 
+atau bisa menggunakan 
 
-yarn
+    yarn
 
 karena versi free ini belum di integrasikan dengan database, silahkan isi sembarang
 atau tetap biarkan dengan yang sudah terisis seperti berikut
 
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_USER=userone
-DB_PASSWORD=secret
-DB_DATABASE=adonisjsblackdashboard
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_USER=userone
+    DB_PASSWORD=secret
+    DB_DATABASE=adonisjsblackdashboard
 
 Jika paket yang dibutuhkan sudah siap, jalankan dengan perintah
 
-npm run dev
+    npm run dev
 
-    atau bisa juga menggunakan
+atau bisa juga menggunakan
 
-yarn dev
+    yarn dev
 
-    bisa juga dengan 
+bisa juga dengan 
 
-node ace serve
+    node ace serve
 
 //===========================================================================================
 Saya juga menyediakan Framework ini untuk versi Pro yang terdiri dari
 
-Admin Dashboard    
+    Admin Dashboard    
     Admin Login + captcha
     Admin Register + captcha
     Forgot Password 
     Confirm Email with OTP
 
-User Dashboar
+    User Dashboar
     User Login + captcha
     User Register + captcha
     Forgot Password
@@ -54,7 +54,7 @@ User Dashboar
     Logout
 
 
-App
+    App
     User Login + captcha
     User Register + captcha
     Forgot Password
