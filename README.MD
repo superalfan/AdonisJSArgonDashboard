@@ -8,7 +8,7 @@ git clone https://github.com/superalfan/AdonisJSArgonDashboard
 
 masuk ke directory 
 
-cd adonisjsblackdashboard, lalu install paket yang dibutuhkan dengan perintah :
+cd AdonisJSArgonDashboard, lalu install paket yang dibutuhkan dengan perintah :
 
     npm i 
 
@@ -72,7 +72,9 @@ koneksi ke app menggunakan auth token
 
 
 Donasi untuk hosting demo versi pro
+
     Wallet address : 
 
 Donate for hosting the pro version demo
+
     Wallet address :
