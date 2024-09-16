@@ -1,6 +1,6 @@
 AdonisJS 6 dan Argon Dashboard
 
-Saya gabungkan Framework AdonisJS V6 dengan Material Black Dashboard Versi Free
+Saya gabungkan Framework AdonisJS V6 dengan Argon Dashboard Versi Free
 
 silahkan download versi free ini di repository berikut : https://github.com/superalfan/AdonisJSArgonDashboard
 
