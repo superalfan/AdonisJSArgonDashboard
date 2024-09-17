@@ -82,8 +82,8 @@ koneksi ke app menggunakan auth token
 
 Donasi untuk hosting demo versi pro
 
-    Wallet address : 
+    Wallet address : 0x8C7d2b8F0d28bbC441Bf17AbEC875d8C8c12F332
 
 Donate for hosting the pro version demo
 
-    Wallet address :
+    Wallet address : 0x8C7d2b8F0d28bbC441Bf17AbEC875d8C8c12F332
