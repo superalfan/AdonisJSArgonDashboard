@@ -37,6 +37,15 @@ bisa juga dengan
 
     node ace serve
 
+Catatan :
+=============
+jika ada library yang tidak lengkap, silahkan download versi template versi bootstrap-nya dan copy file yang diperlukan simpan di folder public, semua file library yang berhubungan dengan template yang bersangkutan saya simpan di folder public
+
+Additional info :
+=============
+If there is an incomplete library, please download the bootstrap version of the template and copy the required files and save them in the public folder. I save all library files related to the template in question in the public folder.
+
+
 //===========================================================================================
 Saya juga menyediakan Framework ini untuk versi Pro yang terdiri dari
 
