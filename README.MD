@@ -2,6 +2,8 @@ AdonisJS 6 dan Argon Dashboard
 
 Saya gabungkan Framework AdonisJS V6 dengan Argon Dashboard Versi Free
 
+![Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard-2.jpg)
+
 silahkan download versi free ini di repository berikut : https://github.com/superalfan/AdonisJSArgonDashboard
 
 git clone https://github.com/superalfan/AdonisJSArgonDashboard
